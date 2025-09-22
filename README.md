@@ -171,6 +171,7 @@ The projects cover the **end-to-end data pipeline**:
 **Duru Chukwuma**  
 📧 chukwuduru588@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
+🔗 [Portfolio](https://www.datascienceportfol.io/chukwuduru588)
 
 ---
 
