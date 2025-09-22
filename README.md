@@ -170,7 +170,7 @@ The projects cover the **end-to-end data pipeline**:
 ## 🚀 Author
 **Duru Chukwuma**  
 📧 chukwuduru588@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/duruchukwuma)  
+🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
 
 ---
 
