@@ -52,8 +52,8 @@ The projects cover the **end-to-end data pipeline**:
 
 📸 Visuals:  
 ![Basic Viz 1](Report%20Images/Codveda%20Project%201%20Basic%20Visualization(1).png)  
-![Basic Viz 2](Report%20Images/Codveda%20Project%201%20Basic%20Visualizations(2).png)  
-![Basic Viz 3](Report%20Images/Codveda%20Project%201%20Basic%20Visualization(3).png)  
+![Basic Viz 2](Report%20Images/Codveda%20Project%201%20Basic%20Visualizations%20(2).png)  
+![Basic Viz 3](Report%20Images/Codveda%20Project%201%20Basic%20Visualization%20(3).png)  
 
 - **Why it matters**:  
   Clear visualizations **communicate insights effectively**, helping stakeholders make data-driven decisions.  
