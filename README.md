@@ -130,7 +130,7 @@ The projects cover the **end-to-end data pipeline**:
   - Interpreted results for decision-making  
 
 📸 Visuals:  
-*(Insert screenshots from your Predictive Modeling notebook here, e.g., ROC curves, feature importance plots)*  
+![Predictive Modelling](Report%20Images/Codveda%20project%203%20Predictive%20Modelling(1).png)
 
 - **Why it matters**:  
   Predictive modeling helps businesses **forecast future outcomes** (e.g., demand, risks, sales).  
