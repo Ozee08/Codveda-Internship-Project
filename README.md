@@ -119,7 +119,7 @@ The projects cover the **end-to-end data pipeline**:
 ![NLP Sentiment](Report%20Images/Codveda%20Project%203%20Natural%20Language%20Processing(1).png) 
 ![NLP Sentiment](Report%20Images/Codveda%20Project%203%20Natural%20Language%20Processing(2).png)
 ![NLP Sentiment](Report%20Images/Codveda%20Project%203%20Natural%20Language%20Processing(3).png)
-![NLP Sentiment](Report%20Images/Codveda%20Project%203%20Natural%20Language%20Processing(4).png)  
+![NLP Sentiment](Report%20Images/Codveda%20Project%20Natural%20Language%20Processing(4).png)  
 - **Why it matters**:  
   NLP transforms raw text into insights — enabling businesses to **track customer feedback and social media sentiment**.  ---
 
