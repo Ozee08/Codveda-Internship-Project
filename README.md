@@ -1,4 +1,4 @@
-# Codveda Internship Project 🚀
+# Codveda Internship Project 
 
 
 This repository contains my **Codveda Data Science Internship Projects**, where I applied **data science, machine learning, NLP, and business intelligence techniques** to real-world datasets.  
@@ -14,7 +14,7 @@ The projects cover the **end-to-end data pipeline**:
 - Interactive Dashboards with Power BI  
 
 ---
-# 🔹 Project Summaries & Interpretations
+#  Project Summaries & Interpretations
 
 ### **1. Task 1: Data Cleaning & Preprocessing**
 - Cleaned missing values, removed duplicates, formatted data.  
@@ -143,7 +143,7 @@ The projects cover the **end-to-end data pipeline**:
   Power BI dashboards provide **real-time business intelligence**, enabling executives to monitor KPIs at a glance.  
 ---
 
-## 📌 Key Skills Demonstrated
+##  Key Skills Demonstrated
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - Data Cleaning & Preprocessing  
 - EDA & Visualization  
@@ -160,9 +160,9 @@ The projects cover the **end-to-end data pipeline**:
 
 ---
 
-## 🚀 Author
+##  Author
 **Duru Chukwuma**  
-📧 chukwuduru588@gmail.com  
+ chukwuduru588@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
 🔗 [Portfolio](https://www.datascienceportfol.io/chukwuduru588)
 
